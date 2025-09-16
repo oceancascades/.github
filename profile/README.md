@@ -2,7 +2,7 @@
 
 ## Data processing
 
-* [deepcut](https://github.com/oceancascades/deepcut): find profiles in pressure records
+* [profinder](https://github.com/oceancascades/profinder): find profiles in pressure records
 
 ## Our at-sea processing system
 
